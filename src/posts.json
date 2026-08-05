@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "How to Build a Responsive Blog Layout",
+    "excerpt": "Learn how to design a responsive card-based blog interface with React and modern CSS.",
+    "author": "Mina Patel",
+    "category": "Design",
+    "date": "Aug 5, 2026",
+    "readTime": "5 min read",
+    "color": "#f5a623"
+  },
+  {
+    "id": "2",
+    "title": "Understanding React Hooks",
+    "excerpt": "A practical guide to useState, useEffect, and useMemo in your next project.",
+    "author": "Leo Kim",
+    "category": "Development",
+    "date": "Jul 22, 2026",
+    "readTime": "7 min read",
+    "color": "#7ed321"
+  },
+  {
+    "id": "3",
+    "title": "Writing Accessible UI Components",
+    "excerpt": "Best practices for making search forms, cards, and buttons accessible to all users.",
+    "author": "Aisha Nwosu",
+    "category": "Accessibility",
+    "date": "Jun 10, 2026",
+    "readTime": "6 min read",
+    "color": "#50e3c2"
+  },
+  {
+    "id": "4",
+    "title": "Styling with CSS Grid and Flexbox",
+    "excerpt": "Combine grid and flexbox to build a clean blog list and responsive layout.",
+    "author": "Emma Lee",
+    "category": "Design",
+    "date": "May 30, 2026",
+    "readTime": "8 min read",
+    "color": "#9013fe"
+  },
+  {
+    "id": "5",
+    "title": "Deploying a React App with Vite",
+    "excerpt": "A step-by-step walkthrough of building, previewing, and deploying a Vite-powered React app.",
+    "author": "Noah Rivera",
+    "category": "Deployment",
+    "date": "Apr 18, 2026",
+    "readTime": "4 min read",
+    "color": "#d0021b"
+  }
+]
